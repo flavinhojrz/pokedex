@@ -7,6 +7,7 @@
 ![Turborepo](https://img.shields.io/badge/turborepo-%23EF4444.svg?style=for-the-badge&logo=turborepo&logoColor=white)
 
 Uma aplicação web responsiva para pesquisar o mundo Pokémon, consumindo a [PokeAPI](https://pokeapi.co/).
+Visite meu projeto aqui: [Pokedex](https://pokedex-web-ten.vercel.app/)
 
 ![Preview do Projeto](./Captura%20de%20tela%20de%202026-03-14%2009-43-23.png)`
 
