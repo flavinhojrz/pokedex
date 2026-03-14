@@ -44,7 +44,7 @@ Certifique-se de ter o **Node.js** (versão 18 ou superior) e o **pnpm** instala
 
 ### Passos para Instalação
 
-1. Clone o repositório (não esqueça de trocar pelo seu link real):
+1. Clone o repositório:
 ```bash
 git clone [https://github.com/flavinhojrz/pokedex](https://github.com/flavinhojrz/pokedex)
 ```
